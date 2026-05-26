@@ -1,0 +1,15 @@
+# Test & coverage artifacts
+*.out
+*.test
+coverage.txt
+
+# Build output
+/bin/
+/dist/
+*.exe
+
+# OS & editor cruft
+.DS_Store
+*.swp
+.idea/
+.vscode/
